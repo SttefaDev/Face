@@ -12,8 +12,8 @@ $ pip install rich requests bs4
 
 $ termux-setup-storage ( izinkan aja )
 
-$ git clone https://github.com/ZeeDev44/Face
+$ git clone https://github.com/SttefaDev/Face
 
 $ cd Face
 
-$ python face.py
+$ python main.py
