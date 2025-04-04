@@ -16,4 +16,4 @@ $ git clone https://github.com/SttefaDev/Face
 
 $ cd Face
 
-$ python main.py
+$ python face.py
